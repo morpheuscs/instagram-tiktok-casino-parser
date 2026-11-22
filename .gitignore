@@ -1,0 +1,26 @@
+# Secrets & credentials
+.env
+*.ovpn
+proton_creds.txt
+instagram_session.json
+tiktok_session.json
+tiktok_session_ua.txt
+
+# Databases & generated outputs
+*.db
+*.db-shm
+*.db-wal
+analytics_results.json
+final_analytics_report.csv
+plaksik_run.log
+downloads/
+
+# Python / IDE
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
