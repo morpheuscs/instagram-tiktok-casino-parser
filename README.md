@@ -1,6 +1,6 @@
 <div align="center">
 
-# `Social Antifraud Radar`
+# `Instagram & TikTok Casino Parser`
 
 **AI-powered Instagram & TikTok scraper, ASR/OCR extractor, and vector/graph risk-scoring dashboard for detecting illegal gambling & betting ads**
 
@@ -25,8 +25,8 @@
 ## Installation
 
 ```bash
-git clone https://github.com/morpheuscs/social-antifraud-radar.git
-cd social-antifraud-radar
+git clone https://github.com/morpheuscs/instagram-tiktok-casino-parser.git
+cd instagram-tiktok-casino-parser
 
 python -m venv .venv
 # Linux / macOS:
@@ -79,7 +79,7 @@ streamlit run app.py
 ## Project Structure
 
 ```text
-social-antifraud-radar/
+instagram-tiktok-casino-parser/
 ├── app.py               # Streamlit web dashboard
 ├── main.py              # CLI pipeline entrypoint
 ├── config.py            # Environment & runtime configuration
