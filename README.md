@@ -95,3 +95,11 @@ instagram-tiktok-casino-parser/
 ├── requirements.txt     # Python dependencies
 └── .env.example         # Environment variables template
 ```
+
+
+---
+
+## Authors
+
+- [@morpheuscs](https://github.com/morpheuscs)
+- [@ksskiper-1](https://github.com/ksskiper-1)
